@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Python Discord Bot Template",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceArgs": "kkrypt0nn/Python-Discord-Bot-Template",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "UpdateSourceConditionValue": "true",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
