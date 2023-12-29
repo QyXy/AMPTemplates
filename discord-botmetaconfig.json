@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "ConfigFile": "bot.py",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
